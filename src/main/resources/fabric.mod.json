@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "bopomofo-translator",
+	"version": "${version}",
+	"name": "Bopomofo Translator",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"flandretw"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/bopomofo-translator/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"flandretw.bopomofo.translator.BopomofoTranslator"
+		],
+		"fabric-datagen": [
+			"flandretw.bopomofo.translator.BopomofoTranslatorDataGenerator"
+		],
+		"client": [
+			"flandretw.bopomofo.translator.BopomofoTranslatorClient"
+		]
+	},
+	"mixins": [
+		"bopomofo-translator.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.6",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
