@@ -3,12 +3,12 @@
 	"id": "bopomofo-translator",
 	"version": "${version}",
 	"name": "Bopomofo Translator",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "From the Minecraft universe comes a savior — the Bopomofo Translator! A super-smart mod dedicated to saving those brain-fart moments when you forgot to switch your input method!",
 	"authors": [
 		"flandretw"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://github.com/flandretw",
 		"sources": "https://github.com/flandretw/BopomofoTranslator"
 	},
 	"license": "MIT",
