@@ -1,5 +1,7 @@
 # 注音亂碼翻譯蒟蒻 (Bopomofo Translator)
 
+[English](README.md) | [臺灣正體中文](README-zh_TW.md)
+
 「你打的那串火星文，我全看懂了！！🥸」
 
 來自 Minecraft 宇宙的救星⸺**注音亂碼翻譯蒟蒻**，是個專門拯救「忘記切換輸入法」的失智瞬間的超智慧模組！

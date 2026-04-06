@@ -1,5 +1,7 @@
 # Bopomofo Translator
 
+[English](README.md) | [臺灣正體中文](README-zh_TW.md)
+
 "I can read all the alien gibberish you typed!! 🥸"
 
 From the Minecraft universe comes a savior — the **Bopomofo Translator**! A super-smart mod dedicated to saving those brain-fart moments when you "forgot to switch your input method"!
