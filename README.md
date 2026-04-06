@@ -53,4 +53,4 @@ A: Yes! It catches all `ChatHud` messages in the chat room. Whether it's sent by
 ---
 
 **License & Copyright**  
-Copyright © 2026 Flandretw | This project is licensed under the [MIT License](LICENSE).
+Copyright © 2026 flandretw | This project is licensed under the [MIT License](LICENSE).
