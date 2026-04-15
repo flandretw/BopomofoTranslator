@@ -1,4 +1,10 @@
 {
   "modmenu.nameTranslation.bopomofo-translator": "Bopomofo Translator",
-  "modmenu.descriptionTranslation.bopomofo-translator": "From the Minecraft universe comes a savior — the Bopomofo Translator! A super-smart mod dedicated to saving those brain-fart moments when you forgot to switch your input method!"
+  "modmenu.descriptionTranslation.bopomofo-translator": "From the Minecraft universe comes a savior — the Bopomofo Translator! A super-smart mod dedicated to saving those brain-fart moments when you forgot to switch your input method!",
+  "bopomofo.config.title": "Bopomofo Translator Settings",
+  "bopomofo.config.color": "Text Color",
+  "bopomofo.config.bold": "Bold text",
+  "bopomofo.config.italic": "Italic text",
+  "bopomofo.config.underline": "Underline text",
+  "bopomofo.config.warning": "Note: Settings apply to new messages only"
 }

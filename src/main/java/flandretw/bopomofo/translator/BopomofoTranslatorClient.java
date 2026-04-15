@@ -5,6 +5,6 @@ import net.fabricmc.api.ClientModInitializer;
 public class BopomofoTranslatorClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
-
+        flandretw.bopomofo.translator.config.BopomofoConfig.getInstance(); // Load config
     }
 }

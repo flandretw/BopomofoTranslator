@@ -18,11 +18,11 @@
 		"main": [
 			"flandretw.bopomofo.translator.BopomofoTranslator"
 		],
-		"fabric-datagen": [
-			"flandretw.bopomofo.translator.BopomofoTranslatorDataGenerator"
-		],
 		"client": [
 			"flandretw.bopomofo.translator.BopomofoTranslatorClient"
+		],
+		"modmenu": [
+			"flandretw.bopomofo.translator.compat.ModMenuIntegration"
 		]
 	},
 	"mixins": [
@@ -31,7 +31,6 @@
 	"depends": {
 		"fabricloader": ">=0.18.6",
 		"minecraft": "~1.21.11",
-		"java": ">=21",
-		"fabric-api": "*"
+		"java": ">=21"
 	}
 }
