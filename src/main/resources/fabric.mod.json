@@ -9,7 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://github.com/flandretw",
-		"sources": "https://github.com/flandretw/BopomofoTranslator"
+		"sources": "https://github.com/flandretw/BopomofoTranslator",
+		"issues": "https://github.com/flandretw/BopomofoTranslator/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/bopomofo-translator/icon.png",

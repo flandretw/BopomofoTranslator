@@ -5,6 +5,6 @@
   "bopomofo.config.color": "翻譯文字顏色",
   "bopomofo.config.bold": "粗體",
   "bopomofo.config.italic": "斜體",
-  "bopomofo.config.underline": "加底線",
+  "bopomofo.config.underline": "底線",
   "bopomofo.config.warning": "注意：設定變更僅套用於全新的聊天訊息，無法追溯既往"
 }
