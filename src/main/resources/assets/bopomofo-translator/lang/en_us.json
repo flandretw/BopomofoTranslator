@@ -6,5 +6,6 @@
   "bopomofo.config.bold": "Bold text",
   "bopomofo.config.italic": "Italic text",
   "bopomofo.config.underline": "Underline text",
-  "bopomofo.config.warning": "Note: Settings apply to new messages only"
+  "bopomofo.config.warning": "Note: Settings apply to new messages only",
+  "bopomofo.config.format": "%s: %s"
 }

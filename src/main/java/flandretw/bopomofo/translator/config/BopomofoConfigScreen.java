@@ -70,11 +70,11 @@ public class BopomofoConfigScreen extends Screen {
         String name = config.textColor.getName();
         Text colorName = Text.literal(name.substring(0, 1).toUpperCase() + name.substring(1))
                 .formatted(config.textColor);
-        return Text.translatable("bopomofo.config.color").append(": ").append(colorName);
+        return Text.translatable("bopomofo.config.format", Text.translatable("bopomofo.config.color"), colorName);
     }
 
     private Text getBoolText(String key, boolean value) {
-        return Text.translatable(key).append(": ").append(ScreenTexts.onOrOff(value));
+        return Text.translatable("bopomofo.config.format", Text.translatable(key), ScreenTexts.onOrOff(value));
     }
 
     @Override
