@@ -54,5 +54,5 @@ A: 可以！它會捕捉聊天室裡所有的 `ChatHud` 訊息，無論是別人
 
 ---
 
-**License & Copyright**  
-版權所有 © 2026 蘭蘭露 | 本專案採用 [MIT License](LICENSE) 授權
+**授權與著作權**  
+版權所有 © 2026 flandretw | 本專案採用 [MIT License](LICENSE.txt) 授權
